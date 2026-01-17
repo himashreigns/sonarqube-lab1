@@ -1,0 +1,7 @@
+organization=ruwangaspbh214174e
+projectKey=ruwangaspbh214174e_lab1
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.78371
+dashboardUrl=https://sonarcloud.io/dashboard?id=ruwangaspbh214174e_lab1
+ceTaskId=AZvKSqA5QmvqtOoJTJxv
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZvKSqA5QmvqtOoJTJxv
